@@ -1,0 +1,39 @@
+{
+    "34567":{
+        "name":"Apples",
+        "cost": 12,
+        "description":"Fresh and usefull apples",
+        "image": "images/apple.png"
+    },
+"34566":{
+        "name":"Avocados",
+        "cost": 70,
+        "description":"Fresh and usefull avocados",
+        "image": "images/avocado.png"
+    },
+    "34565":{
+        "name":"Oranges",
+        "cost": 24,
+        "description":"Fresh and usefull oranges",
+        "image": "images/orange.png"
+    },
+    "34564":{
+        "name":"Garnets",
+        "cost": 30,
+        "description":"Fresh and usefull garnets",
+        "image": "images/garnet.png"
+    },
+    "34563":{
+        "name":"Bananas",
+        "cost": 18,
+        "description":"Fresh and usefull bananas",
+        "image": "images/banana.png"
+    },
+    "34562":{
+        "name":"Cherries",
+        "cost": 22,
+        "description":"Fresh and usefull cherries",
+        "image": "images/cherry.png"
+    }
+
+}
